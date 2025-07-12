@@ -12,7 +12,7 @@ const Home = () =>{
       setBooks(response.data.data)
     }
     
-  }
+  
 
   useEffect(()=>{
     fetchBooks()
