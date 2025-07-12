@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { useEffect } from 'react'
 import Navbar from '../components/Navbar'
-import Card from '../components/card'
+import Card from '../components/Card'
 import axios from 'axios'
 
 const Home = () =>{
